@@ -15,7 +15,7 @@
 12        android:allowBackup="true"
 12-->/Users/sadaqatpanhwer/Downloads/Image-slider-in-android-master/app/src/main/AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-13-->[androidx.core:core:1.1.0] /Users/sadaqatpanhwer/.gradle/caches/transforms-2/files-2.1/e9dab9c67c1ee3668e0bbf86c6d8cbd8/core-1.1.0/AndroidManifest.xml:24:18-86
+13-->[androidx.core:core:1.4.0-alpha01] /Users/sadaqatpanhwer/.gradle/caches/transforms-2/files-2.1/5c9ac7b1c845d8900524d008403122d9/core-1.4.0-alpha01/AndroidManifest.xml:24:18-86
 14        android:debuggable="true"
 15        android:icon="@mipmap/ic_launcher"
 15-->/Users/sadaqatpanhwer/Downloads/Image-slider-in-android-master/app/src/main/AndroidManifest.xml:7:9-43

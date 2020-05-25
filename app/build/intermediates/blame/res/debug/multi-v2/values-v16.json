@@ -4,7 +4,7 @@
             "outputFile": "/Users/sadaqatpanhwer/Downloads/Image-slider-in-android-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/sadaqatpanhwer/.gradle/caches/transforms-2/files-2.1/6119d746697059b7e1b74aab4d181f56/appcompat-1.1.0/res/values-v16/values-v16.xml",
+                    "source": "/Users/sadaqatpanhwer/.gradle/caches/transforms-2/files-2.1/1e26be71f35f7d459c113e2da2642d4b/appcompat-1.1.0/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/Users/sadaqatpanhwer/.gradle/caches/transforms-2/files-2.1/e9dab9c67c1ee3668e0bbf86c6d8cbd8/core-1.1.0/res/values-v16/values-v16.xml",
+                    "source": "/Users/sadaqatpanhwer/.gradle/caches/transforms-2/files-2.1/5c9ac7b1c845d8900524d008403122d9/core-1.4.0-alpha01/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
